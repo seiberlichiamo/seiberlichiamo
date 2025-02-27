@@ -1,6 +1,7 @@
 # About me
 
-**seiberlichiamo/seiberlichiamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science undergraduate student at Stockton University. I am currently a Sophomore with a graduation date at May 2027.
+I work as a Game Manager for Smash Ultimate, where I plan events, run competitions, and manage team compositions.
 
 - 🌱 I’m currently learning computer science, mathematics, and more
 - 👯 I’m looking to collaborate on anything that helps me gain experience in the field
